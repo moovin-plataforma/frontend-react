@@ -2,7 +2,7 @@
 
 ### Desafio
 
-Desenvolver um painel em React integrado com uma API, seguindo o modelo de layout proposto.
+Desenvolver um painel integrado com uma API, seguindo o modelo de layout proposto.
 
 ### Como realizar
 
@@ -14,7 +14,7 @@ Para iniciar você deve instalar as dependências:
 ```
 Em seguida você deve iniciar um webserver local:
 ```zsh
-  foo@bar:~$ npm run dev
+  foo@bar:~$ npm start
 ```
 
 ### Layout
