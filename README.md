@@ -6,7 +6,16 @@ Desenvolver um painel em React integrado com uma API, seguindo o modelo de layou
 
 ### Como realizar o teste
 
-Faça o fork desse repositório, realize os seus commits e ao final envie o link do seu repositório para o e-mail rh@moovin.com.br.
+Faça o fork desse repositório, realize os seus commits e ao final envie o link do seu repositório para o e-mail rh@moovin.com.br. Este repositório já possui uma base para iniciar o desenvolvimento, utilize-a como achar necessário. 
+
+Para iniciar você deve instalar as dependências:
+```console
+  foo@bar:~$ npm install
+```
+Em seguida você deve iniciar um webserver local:
+```console
+  foo@bar:~$ npm run dev
+```
 
 ### Layout
 
@@ -71,3 +80,4 @@ POST https://gorest.co.in/public-api/users?_format=json&access-token={{token}}
 ### Dúvidas
 
 Em caso de dúvida entre em contato pelo skype **matheusmoovin**
+
