@@ -39,7 +39,7 @@ Dicas:
 ```
 *Os itens acima estão em ordem de prioridade, sendo necessário fazer ao menos um deles (estilo e API) para avaliação. Quanto mais itens realizar mais informação teremos para avaliação ;)*
 
-### API
+### API & Exemplos
 
 - Documentação: https://gorest.co.in/
 - Endpoint: https://gorest.co.in/public-api/
