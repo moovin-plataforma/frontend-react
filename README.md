@@ -6,7 +6,7 @@ Desenvolver um painel em React integrado com uma API, seguindo o modelo de layou
 
 ### Como realizar o teste
 
-Faça o fork desse repositório, realize os seus commits e ao final envie o link do seu repositório para o e-mail rh@moovin.com.br. Este repositório já possui uma base para iniciar o desenvolvimento, utilize-a como achar necessário. 
+Faça o fork do repositório, realize os seus commits e ao final envie o link do seu repositório para o e-mail rh@moovin.com.br. Este repositório já possui uma base para iniciar o desenvolvimento, utilize-a como achar necessário. 
 
 Para iniciar você deve instalar as dependências:
 ```console
@@ -27,9 +27,9 @@ https://xd.adobe.com/spec/21e60bfc-8b67-4f93-7e70-0434b8eafbd6-57d7/
 
 ```
 Dicas: 
-  Comece por esse item, sem ele vai ser dificil fazer os outros ;P
+  Comece por esse item, sem ele vai ser difícil fazer os outros ;P
   Receber um e-mail e buscar na API se está cadastrado
-  Não permita passar dessa parte se o e-mail não existir na API (aff, meio obviu :|)
+  Não permita passar dessa parte se o e-mail não existir na API (aff, meio óbviu :|)
   Salvar o id desse usuário (cookie?) para utilizar na consulta de posts (spoiler do próximo item ;))
 ```
 2. Avance para a listagem de posts cujo o usuário que entrou é o autor (estilo e API)
@@ -37,7 +37,7 @@ Dicas:
 ```
 Dicas: 
   Você vai precisar do item anterior ;X
-  Consultar apenas os posts do usuário que inseriou um e-mail válido (lembra do spoiler?)
+  Consultar apenas os posts do usuário que inseriu um e-mail válido (lembra do spoiler?)
   Ninguém pode visualizar essa tela caso não tenha informado um e-mail 
 ```
 3. Finalize com o formulário de cadastro de usuário (estilo e API)
