@@ -4,7 +4,7 @@
 
 Desenvolver um painel em React integrado com uma API, seguindo o modelo de layout proposto.
 
-### Como realizar o teste
+### Como realizar
 
 Faça o fork do repositório, realize os seus commits e ao final envie o link do seu repositório para o e-mail rh@moovin.com.br. Este repositório já possui uma base para iniciar o desenvolvimento, utilize-a como achar necessário. 
 
