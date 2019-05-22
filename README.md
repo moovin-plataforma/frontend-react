@@ -19,7 +19,7 @@ Em seguida você deve iniciar um webserver local:
 
 ### Layout
 
-https://xd.adobe.com/spec/21e60bfc-8b67-4f93-7e70-0434b8eafbd6-57d7/
+https://xd.adobe.com/view/7187867c-90ca-4f07-5951-55bf5518e26f-07b6/
 
 ### API & Exemplos
 
