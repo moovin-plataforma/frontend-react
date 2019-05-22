@@ -25,7 +25,7 @@ https://xd.adobe.com/view/7187867c-90ca-4f07-5951-55bf5518e26f-07b6/
 
 - Documentação: https://gorest.co.in/
 - Endpoint: https://gorest.co.in/public-api/
-- Token: Será enviado por e-mail ao candidato 
+- Token: Será enviado por e-mail 
 
 #### Consulta de postagens: 
 ```perl
