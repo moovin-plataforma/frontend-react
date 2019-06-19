@@ -1,4 +1,4 @@
-# Frontend <img src="https://www.moovin.com.br/img/logo_moovin.png" width="50">
+# Frontend <img src="https://www.moovin.com.br/assets/images/svg/logo2.svg" width="50">
 
 ### Desafio
 
