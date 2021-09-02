@@ -25,7 +25,7 @@ https://xd.adobe.com/spec/21e60bfc-8b67-4f93-7e70-0434b8eafbd6-57d7/
 
 - Documentação: https://gorest.co.in/
 - Endpoint: https://gorest.co.in/public-api/
-- Token: Será enviado por e-mail 
+- Token: `32076aa84dcb8091eb0e9884c2f8235943c02a4ae061304baac1a68969035fee`
 
 #### Consulta de postagens: 
 ```perl
