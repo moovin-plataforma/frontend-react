@@ -1,0 +1,80 @@
+*{
+  margin:0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  background-color: #F0EFEF;
+}
+
+.App {
+  background-color: #000000; 
+  height: 80px;
+}
+
+.Table {
+  margin: 0 auto; 
+  border: 1px solid #F0EFEF;
+  width: 80%; 
+  border-collapse: collapse;
+}
+
+.BodyTable {
+  margin: 0 auto; 
+  margin-top: 20px; 
+  border: 1px solid #F0EFEF;    
+  width: 80%;
+  background-color:#ffffff;
+}
+
+.TitleforPost {
+  margin-left: 200px; 
+  margin-top: 10px; 
+  margin-bottom: 20px; 
+  background-color: #ffffff;
+
+}
+
+.Title {
+  font-weight: 500;
+  border: 1px solid #F0EFEF;
+  padding: 10px; 
+  background-color: #F0EFEF;
+}
+
+.BodyText {
+  font-weight: 300;
+  border: 1px solid #F0EFEF;
+  padding: 5px; 
+  font-size: 14px; 
+  background-color:#ffffff;
+}
+
+.Pagination {
+  background-color:#ffffff;
+  display: flex;
+  flex-direction: flex-end;
+  list-style: none;
+  margin-left: 70%; 
+}
+
+.Pagination li{
+  margin-left: 1rem;
+  background:#ffffff;
+}
+
+.Pagination button {
+  margin-left: 1rem;
+  background:#ffffff;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  padding: 6px; 
+}
+
+.Pagination button:hover {
+  border: 1px solid #A3A3A3;
+}
+
+.ImgLogo{
+  background-color: #000000;
+}
