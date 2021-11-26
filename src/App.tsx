@@ -1,15 +1,23 @@
-import React from 'react'
-import './App.scss'
+import React from "react";
+import "./App.scss";
+import { usePosts } from "./providers/postsProvider";
 
-const App: React.FC = () => {
-	const logoMoovin =
-		'https://cdn.moovin.com.br/project/manager-panel/img/logo-moovin.svg'
+const App = () => {
+  const { searchPosts, posts } = usePosts();
 
-	return (
-		<div className='App'>
-			<img alt='Logo da Moovin' src={logoMoovin} />
-		</div>
-	)
-}
+  return (
+    <div className="App">
+      <button onClick={searchPosts}>Request test</button>
+      <div>
+        {posts.map((post) => (
+          <div key={post.id}>
+            <h3>{post.title}</h3>
+            <p>{post.body}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+};
 
-export default App
+export default App;
